@@ -40,5 +40,6 @@ $ yarn || npm install
 $ yarn dev || npm run dev
 ```
 ## Ver a aplicação
-O deploy da aplicação foi feito com Vercel e pode ser acessado abaixo:
+O deploy da aplicação foi feito com Vercel e pode ser acessada através do link:
+<br />
 https://moveit-next-dehcf.vercel.app/
