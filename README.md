@@ -39,7 +39,7 @@ $ yarn || npm install
 # use esses comandos para rodar a aplicação localmente na sua máquina
 $ yarn dev || npm run dev
 ```
-## Ver a aplicação
+## :star: Ver a aplicação
 O deploy da aplicação foi feito com Vercel e pode ser acessada através do link:
 <br />
 https://moveit-next-dehcf.vercel.app/
